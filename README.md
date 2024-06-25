@@ -1,7 +1,7 @@
 
 ### oi! sou a Dayane !
 
-![Status do Github da Dayane](https://github-readme-stats.vercel.app/api?username=gomes1401&show_icons=true&theme=dark)
+![Status do Github da Dayane](https://github-readme-stats.vercel.app/api?username=dayanesousa&show_icons=true&theme=dark)
 
 ## Linguagens
 
